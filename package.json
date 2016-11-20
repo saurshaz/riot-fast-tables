@@ -1,0 +1,34 @@
+{
+  "name": "riotjs-fast-tables",
+  "version": "1.0.0",
+  "description": "riotjs-fast-tables component with RiotJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saurshaz/riot-fast-tables.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server"
+  },
+  "keywords": [
+    "riot",
+    "webpack",
+    "riotjs"
+  ],
+  "author": "Saurabh S <saurshaz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "html-loader": "^0.4.0",
+    "riot": "^2.4.0",
+    "riotjs-loader": "^3.0.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "moment": "^2.16.0"
+  }
+}
