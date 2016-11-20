@@ -1,14 +1,12 @@
 # riot-fast-tables
-riot fast-tables component created with Riot.
-
+riot fast tables component created with Riot.
 
 ## About
-This app was written to build a quick table view using Riot. 
+- This uses [footable](https://github.com/fooplugins/FooTable)
+- This component was written to provide a base to build quick table views using Riot. 
 
-This will enable churning out good looking tabular views 
-It was heavily inspired by [TodoMVC](http://todomvc.com) and implements the same features as those apps. 
-It does not use the Riot compiler or Riot's tag-files. 
-Instead it manually creates tags using Riot's API (inspired by [this blog post](http://blog.srackham.com/posts/riot-es6-webpack-apps/)).
+This will enable churning out good looking tabular views.
+
 
 ## Install and run locally
 1. Clone the repository
